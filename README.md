@@ -8,7 +8,7 @@ Hi there! I'm Juan, a developer in training with some experience under my belt. 
 - 👯 I am looking to collaborate on new projects
 - 🤔 I'm looking for help with php
 - 💬 Ask me about web development (JavaScript, CSS, Html)
-- 📫 How to contact me: [Juantito/Contac](https://www.linkedin.com/in/juan-gedeon/)
+- 📫 How to contact me: [Juantito/Contact](https://www.linkedin.com/in/juan-gedeon/)
 - 😄 Pronouns: John
 
 ![image](https://github.com/JuanGTito/JuanGTito/assets/109045642/701c9910-0299-4a8e-a2b6-5dff91d1093e)
