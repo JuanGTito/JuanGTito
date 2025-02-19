@@ -4,10 +4,10 @@
 
 Hi there! I'm Juan, a developer in training with some experience under my belt. I'm working to master both backend and frontend development. My repository reflects my learning journey and growth in the software world. Join me as I progress towards becoming a full-fledged developer!
 
-- 🌱 I am currently learning (React, Python)
+- 🌱 I am currently learning (React, C++, Angular)
 - 👯 I am looking to collaborate on new projects
 - 🤔 I'm looking for help with php
-- 💬 Ask me about web development (JavaScript, CSS, Html)
+- 💬 Ask me about web development (JavaScript, CSS, Html, Python, Node, Java)
 - 📫 How to contact me: [Juantito/Contact](https://www.linkedin.com/in/juan-gedeon/)
 - 😄 Pronouns: John
 
