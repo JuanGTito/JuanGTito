@@ -31,8 +31,8 @@ To build modern and professional applications, I leverage a versatile set of too
 ### 📈 GitHub Statistics
 
 <p align="left">
-  <img src="https://tu-proyecto-de-vercel.vercel.app/api?username=JuanGTito&show_icons=true&theme=tokyonight&count_private=true" alt="Juan's GitHub Stats" width="48%" />
-  <img src="https://tu-proyecto-de-vercel.vercel.app/api/top-langs/?username=JuanGTito&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://juan-github-stats-boo5iv76a-juangtitos-projects.vercel.app/api?username=JuanGTito&show_icons=true&theme=tokyonight&count_private=true" alt="Juan's GitHub Stats" width="48%" />
+  <img src="https://juan-github-stats-boo5iv76a-juangtitos-projects.vercel.app/api/top-langs/?username=JuanGTito&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 ---
